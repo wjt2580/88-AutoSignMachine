@@ -21,7 +21,7 @@ unicom_appid（http://m.client.10010.com/mobileService/customer/getclientconfig.
 
 NOTIFY_SCKEY（service酱得key）
 
-#多用户配置
+#多用户配置11
 
 https://github.com/你的用户名/88-AutoSignMachine/settings/secrets/actions 然后点击New repository secret
 
